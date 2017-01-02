@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">High And Low</string>
+    <string name="button_high">High</string>
+    <string name="button_low">Low</string>
+    <string name="win">You win</string>
+    <string name="lose">You lose</string>
+    <string name="draw" tools:ignore="TypographyEllipsis">Draw...</string>
+</resources>
